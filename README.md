@@ -1,6 +1,10 @@
 # notes-import
 ### Imports a folder of plaintext files into Apple Notes
 
+Please see the "known issues" below before using.
+
+I successfully used this on OS X 10.11 El Capitan.  It probably does not work on earlier versions of OS X.
+
 ```
 //
 // notes-import.scpt 
