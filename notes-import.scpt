@@ -35,7 +35,7 @@ folderContents.forEach(function(item)
 	{
 		var note = notesApp.Note({
 			'name': item,
-			'body': fileContents
+			'body': fileContents.replace(/\n/g,'<br>')
 		})
 
 		notesApp.folders[0].notes.push(note)
