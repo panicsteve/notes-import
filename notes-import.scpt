@@ -7,6 +7,7 @@
 //
 // Usage:
 //   - Open this file in Script Editor
+//   - Change Script Editor language popup from AppleScript to JavaScript
 //   - Run
 //   - Select folder containing files to import
 //
