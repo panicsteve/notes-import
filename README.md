@@ -15,6 +15,7 @@ I successfully used this on OS X 10.11 El Capitan.  It probably does not work on
 //
 // Usage:
 //   - Open this file in Script Editor
+//   - Change Script Editor language popup from AppleScript to JavaScript
 //   - Run
 //   - Select folder containing files to import
 //
