@@ -35,7 +35,7 @@ folderContents.forEach(function(item)
 	if ( fileContents !== false )
 	{
 		var note = notesApp.Note({
-			'name': item,
+			'name': item.replace(/\.\w{3,4}$/, ''),
 			'body': fileContents
 		})
 
